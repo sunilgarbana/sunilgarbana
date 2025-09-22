@@ -211,4 +211,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilgarbana&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="200" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilgarbana&theme=tokyonight&hide_border=true" height="200" width="440"/>
 </p>
-- 📫 How to reach me <a href="mailto:sunilgarbana@gmail.com"><b>sunilgarbana@gmail.com</b></a>
+<h2 align="centre"><a href="mailto:sunilgarbana@gmail.com"></a><b>sunilgarbana@gmail.com</b></h2>
