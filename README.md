@@ -1,5 +1,5 @@
 <h1 align="center">Hi There!, I'm Sunil Garbana</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Fulll Stack Developer from India</h3>
 
 <p align="left">
   <img
@@ -54,9 +54,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilgarbana&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="200" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilgarbana&theme=tokyonight&hide_border=true" height="200" width="440"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilgarbana&theme=tokyonight&hide_border=true" height="200" width="440" />
 </p>
 <h4 align="center">Reach Me :</h4>
 <h4 align="center"><a href="mailto:sunilgarbana@gmail.com"></a><b>sunilgarbana@gmail.com</b></h4>
